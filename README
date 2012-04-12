@@ -1,0 +1,1 @@
+This is a simple SpringMVC WebApp application which gives the Sauce Labs engineers a reproducable test case which involves a bodyless redirect on localhost.
